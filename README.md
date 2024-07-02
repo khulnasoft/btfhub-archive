@@ -2,16 +2,16 @@
 
 BTF files for existing published kernels that don't support embedded BTF.
 
-The main repository can be found at [https://github.com/aquasecurity/btfhub](https://github.com/aquasecurity/btfhub).
+The main repository can be found at [https://github.com/khulnasoft/btfhub](https://github.com/khulnasoft/btfhub).
 
 > This is an automated repository, issues and PRs should go to main btfhub repository.
 
 ## Credits for this repository:
 
-1. Itay Shakury (Aqua Security)
+1. Itay Shakury (KhulnaSoft Security)
    - Idealization of the project
    - Planned for initial usage with Tracee
-1. Rafael David Tinoco (Aqua Security)
+1. Rafael David Tinoco (KhulnaSoft Security)
    - Initial archive creator with Ubuntu, Fedora
    - Initial build logic and examples
    - Helped Mauricio developing BTFgen
